@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingmagiczh
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning All
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me codingmagiczh@163.com
 
