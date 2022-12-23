@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codingmagiczh
-- 👀 I’m interested in Full stack development
+- 👀 I’m interested in Java full stack development
 - 🌱 I’m currently learning All
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me codingmagiczh@163.com
